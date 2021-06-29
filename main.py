@@ -1,4 +1,4 @@
-from create_username import Username
+from create_username import write_csv
 
 if __name__ == '__main__':
-    pass
+    write_csv()
